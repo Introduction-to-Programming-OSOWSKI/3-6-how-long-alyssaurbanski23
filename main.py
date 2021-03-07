@@ -1,9 +1,7 @@
-def howL(x):
+def howL(w):
 
-    for i in range(0, len(x)):
-        if x[i] == "peanut butter":
-            return True
+    for i in range(0, len(peanutButter)
 
-        return False
 
-print (hasL("peanut butter"))
+
+print(hadL(peanutButter))
